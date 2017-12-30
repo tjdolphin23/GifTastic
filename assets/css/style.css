@@ -1,3 +1,7 @@
+h1 {
+	text-align: center;
+}
+
 .btn-info {
 	background-color: #2a64e0;
 	color: #FFFFFF;
@@ -5,6 +9,7 @@
 
 #gifs {
  	float: left;
+ 	margin-left: 25px;
 }
 
 #submit {
